@@ -1,5 +1,5 @@
 -  Hi, I’m berkai
--  Totally a newbie in coding world, but i really enjoy while i doing it
+-  Casual Coder, mostly into data analyzing and manipulation 
 -  I’m interested in Java,Python and SQL 
 -  I’m currently learning Pyhton
 <!---
